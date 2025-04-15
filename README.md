@@ -2,8 +2,6 @@
 
 This template provides a minimal setup to get The Fedimint Web SDK working with Vite + React + TypeScript.
 
-## Technologies Used
+## Additions 
 
-- core-web: The Fedimint client library for web applications
-- Vite: A fast build tool and development server. Check the [`vite.config.ts`](./vite.config.ts) for configurations required for handling wasm.
-- React
+This repo includes the demonstration of [#128](https://github.com/fedimint/fedimint-web-sdk/pull/128) ie. Now you can parse the Invite code as well as the Bolt11Invoice
